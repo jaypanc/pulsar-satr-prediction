@@ -23,3 +23,6 @@ Over the whole electromagnetic spectrum from radio to the very high energy gamma
 ### 2). DM-SNR CURVE
 
  Radio waves emitted from pulsars reach earth after travelling long distances in space which is filled with free electrons. Since radio waves are electromagnetic in nature, they interact with these electrons, this interaction results in slowing down of the wave. The important point is that pulsars emit a wide range of frequencies, and the amount by which the electrons slow down the wave depends on the frequency. Waves with higher frequency are sowed down less as compared to waves higher frequency. i.e. lower frequencies reach the telescope later than higher frequencies. This is called dispersion.
+
+
+[Link to the dataset](https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate)
