@@ -1,4 +1,4 @@
-# pulsar-satr-prediction
+# pulsar-star-prediction
 
 ## Dataset info:
 
