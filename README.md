@@ -6,10 +6,10 @@ Given dataset is divided into two parts: 1. training set 2. testing set.
 
 there are 9 columns of mainly two features and one target variable.Those two features are integrated profile and DM-SNR curve
 columns are
-1.mean
-2.standard deviation
-3.excess kurtosis
-4.skewness 
+1. mean  
+2. standard deviation  
+3. excess kurtosis  
+4. skewness   
 of both integrated profile and DM-SNR curve
 
 
